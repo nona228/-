@@ -14,3 +14,5 @@ def cocktail_sort(arr):
     return arr
 
 print(cocktail_sort([12, 47, 46, 54, 19, 0]))
+print(cocktail_sort([13, 58, 49, 85, 12, 0]))
+print(cocktail_sort([5, 76, 34, 45, 98, 0]))
